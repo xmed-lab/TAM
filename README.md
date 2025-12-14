@@ -100,14 +100,13 @@ This project is licensed under the MIT License.
 
 ## Citation
 ```
-@misc{li2025tokenactivationmapvisually,
-      title={Token Activation Map to Visually Explain Multimodal LLMs}, 
-      author={Yi Li and Hualiang Wang and Xinpeng Ding and Haonan Wang and Xiaomeng Li},
-      year={2025},
-      eprint={2506.23270},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2506.23270}, 
+@InProceedings{Li_2025_ICCV,
+    author    = {Li, Yi and Wang, Hualiang and Ding, Xinpeng and Wang, Haonan and Li, Xiaomeng},
+    title     = {Token Activation Map to Visually Explain Multimodal LLMs},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2025},
+    pages     = {48-58}
 }
 ```
 
